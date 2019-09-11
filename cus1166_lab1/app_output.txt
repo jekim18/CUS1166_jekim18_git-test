@@ -1,0 +1,11 @@
+Student name is John with grade of 98.0
+Student name is Matt with grade of 100.0
+Student name is Andy with grade of 96.0
+Student name is Bob with grade of 91.0
+Student name is Cathy with grade of 67.0
+Student name is Johny with grade of 98.0
+Student name is Matty with grade of 100.0
+Student name is Andyy with grade of 96.0
+Student name is Boby with grade of 91.0
+Student name is Cathyy with grade of 67.0
+Their average is: 90.4
